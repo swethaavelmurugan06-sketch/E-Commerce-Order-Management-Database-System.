@@ -1,3 +1,17 @@
+### 1. Why should all users not have full database access?
+
+All users should not have full database access because it may cause unauthorized data access, modification or deletion. Permissions should be provided according to their job responsibilities.
+
+### 2. What risks occur if payment data is accessible to everyone?
+
+Payment data may be stolen, misused or modified. This can cause financial loss and privacy problems.
+
+### 3. How does role-based access improve security?
+
+Role-based access gives permissions according to the user's role. It prevents unauthorized access and improves database security.
+
+
+
 1. User Access Report:
 
 
