@@ -1,3 +1,21 @@
+## ACID Properties
+
+ACID properties ensure reliable and secure database transactions.
+
+### 1. Atomicity
+Atomicity means a transaction is completed fully or not completed at all. If an error occurs, all changes are rolled back.
+
+### 2. Consistency
+Consistency ensures that the database remains valid before and after every transaction. All database rules and constraints must be followed.
+
+### 3. Isolation
+Isolation ensures that multiple transactions do not interfere with each other while executing simultaneously.
+
+### 4. Durability
+Durability ensures that once a transaction is committed, the changes are permanently saved in the database.
+
+
+
 Report 1: Order Transaction Report
 
 
